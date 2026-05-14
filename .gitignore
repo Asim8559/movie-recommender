@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+#data set 
+ml-100k/
 # Distribution / packaging
 .Python
 build/
